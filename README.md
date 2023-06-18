@@ -1,6 +1,6 @@
 ### Heyaa 👋
 
-### I am 😊 UG CSE Student from KIIT 
+### I am 😊 UG CSE Student 
 
 - 🔭 I’m currently an undergraduate student pursuing CSE 
 - 🌱 I’m currently learning ... Machine Learning, BackEnd Web, JavaScript, Data Science
